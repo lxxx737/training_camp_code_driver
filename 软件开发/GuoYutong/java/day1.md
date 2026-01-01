@@ -202,7 +202,7 @@ public class ScannerDemo1{//类定义
 |/|除|
 |%|取余，取模|
 ```java{.line-numbers}
-package com.itheima.arithmeticoperator;
+package JavaDay1.test;
 
 public class ArithmeticoperatorDemo1 {
     public static void main(String[] args) {
@@ -242,7 +242,7 @@ int b = (int) a;
 ```
 **示例**
 ```java{.line-numbers}
-package com.itheima.arithmeticoperator;
+package JavaDay1.test;
 
 public class ArithmeticoperatorDemo3{
     public static void main(String[] args){
@@ -301,7 +301,7 @@ public class ArithmeticoperatorDemo3{
 `^|逻辑异或|相同为false, 不同为true
 ！|逻辑非|取反
 ```java{.line-numbers}
-package com.itheima.logicoperator;
+package JavaDay1.test;
 
 public class LogicoperatorDemo1{
     public static void main(String[] args){
